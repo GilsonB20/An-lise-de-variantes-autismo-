@@ -1,4 +1,4 @@
-# Analise-de-variantes-autismo-
+# Análise de variantes do autismo
 Este pipeline contem os passos para anotação de variantes e junção desssas com dados adicionais enviados em um arquivo excel. 
 Os passos aqui descritos visaram realizar uma mesclagem das variantes anotadas com a tabela xlsx e expressar os resultados em tabelas. 
 
